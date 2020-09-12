@@ -35,8 +35,8 @@ function onFocus() {
   document.title = "2all";
 }
 
-var G_SessionID = 0;
-var G_Chat_ID = 0;
+var G_SessionID = 744;
+var G_Chat_ID = 7502;
 
 function getChatLoad() {
   G_SessionID = $("#SessionID").val();
