@@ -35,14 +35,12 @@ function onFocus() {
   document.title = "2all";
 }
 
-var G_SessionID = 744;
-var G_Chat_ID = 7502;
+var G_SessionID = "212122";
+var G_Chat_ID = "7502";
 
 function getChatLoad() {
-  G_SessionID = $("#SessionID").val();
-  $("#SessionID").val("");
-
-  G_Chat_ID = $("#chat_id").val(); // document.getElementById("chat_id").value
+  G_SessionID = "212122";
+  G_Chat_ID = "7502"; // document.getElementById("chat_id").value
   //$("#chat_id").val(''); // need chat id for login submit
 
   $("body").on("click", ".clsYoutubeShow", function () {
