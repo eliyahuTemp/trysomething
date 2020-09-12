@@ -1,0 +1,193 @@
+BODY
+{
+	font-size: 12px;
+	margin: 0px;
+	color: black;
+	font-family: Arial;
+}
+
+FORM
+{
+padding:0;
+margin:0;
+
+}
+
+A TD
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #000000;
+}
+TABLE
+{
+	font-size: 12px;
+}
+.TxtCaption
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: black;
+	
+}
+ 
+.TxtInputStyleSmall
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-size: 12px;
+	background-image: url(..\jpg\NewDesign\InputBox1.jpg);
+	border-left: darkgray 1px solid;
+	border-bottom: darkgray 1px solid;
+	font-family: Arial;
+	width:50px;
+}
+
+.TxtInputStyle
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-size: 12px;
+	background-image: url(..\jpg\NewDesign\InputBox1.jpg);
+	border-left: darkgray 1px solid;
+	border-bottom: darkgray 1px solid;
+	font-family: Arial;
+}
+.clsDisplayNone
+{
+	display:none;
+}
+ 
+INPUT
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-size: 12px;
+	background-image: url(..\jpg\NewDesign\InputBox1.jpg);
+	border-left: darkgray 1px solid;
+	border-bottom: darkgray 1px solid;
+	font-family: Arial;
+}
+.chat_time 
+{
+	font-size: 12px;
+	color: #999999;
+	font-family: Arial;
+}
+.chat_user 
+{
+	font-size: 12px;
+	color: #111111;
+	font-family: Arial;
+}
+		
+.scrollcss
+{
+scrollbar-arrow-color: #464646;
+scrollbar-3dlight-color: #CCCCCC;
+scrollbar-darkshadow-color: #999999;
+scrollbar-face-color: #D4D0C8;
+scrollbar-highlight-color: #FFFFFF;
+scrollbar-shadow-color: #CCCCCC;
+scrollbar-track-color: #e6e6e6;
+}
+
+.TblStyle
+{
+	/*border-right: dimgray 0px solid;
+	border-top: dimgray 1px solid;
+	border-left: dimgray 1px solid;
+	border-bottom: dimgray 0px solid;
+	background-color: #fafafa;*/
+}
+
+.TopA
+{
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+
+	line-height:38px;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top: 12px;
+	color: #565656;	
+}
+
+.TopDiv
+{
+	background-color: #f1f1f1;
+	
+}
+
+.TopDiv :hover
+{
+	background-color: dimgray;
+	color: white;
+}
+
+.InputTypeChatButtons
+{
+	border-bottom: dimgray 1px solid;
+	border-left: dimgray 1px solid;
+	
+	height: 20px;
+	border-top: dimgray 1px solid;
+	border-right: dimgray 1px solid;
+}
+
+.TopTd
+{
+	padding:1px;
+}
+
+.TopTableBG
+{
+	border-bottom: gainsboro 3px solid;
+	padding-bottom: 1px;
+	background-color: #fbfbfb;
+}
+
+
+/************************************/
+#ChatColMD
+{border: 1px solid #F8F7F7;border-radius: 6px 6px 6px 6px;padding: 0px;margin-bottom: 20px;}
+#ChatColMD .panel-body {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+#div_chat_parent {background-color: #F2F2F2;}
+.ChatMsg {
+  padding: 4px;
+  margin-bottom: 3px;
+  border: 1px solid rgba(152, 152, 152, 0);
+  border-radius: 4px;
+  background: #FFFFFF;
+  position: relative;
+}
+.MsgIcon{
+}
+.MsgUserName{
+    /* float: left; */
+    /* color: #C1C1C1; */
+    font-size: 12px;
+}
+.MsgTime{
+    float: left;
+    color: #B2B2B2;
+    font-size: 11px;
+    padding: 0px 5px;
+}
+.MsgText{
+    margin-right: 19px;
+    display: block;
+}
+.BtnPrivate
+{
+    font-size:12px;
+    font-weight:bold;
+    cursor:pointer;
+}
+/************************************/

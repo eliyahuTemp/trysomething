@@ -1,0 +1,72 @@
+ 
+
+DIV
+{	
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+
+.ChatTable_Div_Users
+{
+	background-color:#ffffff;padding:4px;
+}
+
+.ChatTable_Div_Chat
+{
+	 background-color:#ffffff;padding:4px;
+
+}
+
+.fonts
+{
+	font-family: Aharoni, Arial, 'Courier New' , David, 'Guttman Adii' , 'Guttman Adii-Light' , 'Guttman Aharoni' , 'Guttman David' , 'Guttman Kav' , 'Guttman Kav-Light' , 'Guttman Miryam' , 'Guttman Rashi' , 'Guttman Yad-Brush' , 'Guttman Yad-Light' , 'Microsoft Sans Serif' , Miriam, Rod, Tahoma, 'Times New Roman';
+}
+/*
+.DivBlock_Users 
+{
+	height: 290px; 	
+}
+*/
+.DivBlock_ChatMsg{}
+
+.DivBlock_Buttons
+{
+	border:1px;
+}
+
+.ChatPanelInputDiv
+{
+	padding-top: 4px;
+}
+
+.ChatPanelInputSend{width: 18%;float:left;	left:0px;}
+.ChatPanelInputTxt
+{
+	width: 78%;
+	height: 26px;
+	font-size: 14px;
+	font-weight: bold;
+	float:right;
+	right:0px;	
+}
+
+.ChatPanelBottons
+{
+	
+	line-height:24px;
+	font-size: 16px;
+	cursor: hand;
+	font-weight: bold;
+	text-align:center;
+}
+ 
+.ChatDivs_Border
+{
+	border-bottom: gainsboro 4px solid;
+	border-left: gainsboro 4px solid;
+	border-top: gainsboro 4px solid;
+	border-right: gainsboro 4px solid;
+}
