@@ -37,7 +37,7 @@ function onFocus() {
 
 var G_SessionID = "212122";
 var G_Chat_ID = "7502";
-
+//dfdf
 function getChatLoad() {
   G_SessionID = "212122";
   G_Chat_ID = "7502"; // document.getElementById("chat_id").value
